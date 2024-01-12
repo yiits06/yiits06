@@ -1,10 +1,3 @@
-
-Çağatay Akkaş tarafından sabitlendi
-@CagatayAkkas
-5 ay önce (düzenlendi)
-Tekrardan selamlar Herkese =) nedendir bilinmez bazı arkadaşlarımızda (ben de dahil) yılan grafiği yarım olarak görünmeye başladı. Bunu tekrardan tam haline getirmek için :
-
-1)main.yaml dosyamıza bu kodu yapıştırıp sadece github_user_name'i değiştiriyoruz :
 name: generate animation
 
 on:
