@@ -20,5 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yiits06&" alt="yiits06" /></p>
 
+![snake gif](https://github.com/yiits06/yiits06/blob/output/github-contribution-grid-snake-dark.svg)
 
 
