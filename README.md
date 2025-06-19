@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yiğit</h1>
 <h3 align="center">A passionate FrontEnd developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Angular**
+- 🔭 I’m currently working on **Dart-Flutter**
 
 - 📫 How to reach me **yigit-karakoc@hotmail.com**
 
