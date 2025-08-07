@@ -1,6 +1,6 @@
 [![MasterHead](https://img-c.udemycdn.com/course/750x422/2507804_faa5_8.jpg)
 <h1 align="center">Hi 👋, I'm Yiğit</h1>
-<h3 align="center">A passionate FrontEnd developer from Turkey</h3>
+<h3 align="center">A passionate Mobile developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Dart-Flutter**
 
