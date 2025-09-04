@@ -1,4 +1,4 @@
-[![MasterHead]([https://img-c.udemycdn.com/course/750x422/2507804_faa5_8.jpg](https://camo.githubusercontent.com/144e705e8184bc71ef0b889e988510d18f8680eea23e284fbaa8e4560512c586/68747470733a2f2f696d672d632e7564656d7963646e2e636f6d2f636f757273652f373530783432322f323530373830345f666161355f382e6a7067))
+[![MasterHead]([[https://img-c.udemycdn.com/course/750x422/2507804_faa5_8.jpg](https://www.shutterstock.com/image-vector/software-development-coding-process-concept-600nw-1396210841.jpg)]
 <h1 align="center">Hi 👋, I'm Yiğit</h1>
 <h3 align="center">A passionate Mobile developer from Turkey</h3>
 
