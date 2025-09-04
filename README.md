@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-vector/software-development-coding-process-concept-600nw-1396210841.jpg)]
+![MasterHead](https://www.shutterstock.com/image-vector/software-development-coding-process-concept-600nw-1396210841.jpg)  width="40" height="40" ] 
 <h1 align="center">Hi 👋, I'm Yiğit</h1>
 <h3 align="center">A passionate Mobile developer from Turkey</h3>
 
