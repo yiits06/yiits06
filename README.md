@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GÖRSEL_LİNKİ" width="800">
+  <img src="(https://timelinecovers.pro/covers/it/android-developer-facebook-cover-photo)" width="800">
 </p>
 <h1 align="center">Hi 👋, I'm Yiğit</h1>
 <h3 align="center">A passionate Mobile developer from Turkey</h3>
