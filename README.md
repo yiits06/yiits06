@@ -1,15 +1,22 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="120"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="140"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yiğit</h1>
-<h3 align="center">A passionate Mobile Developer from Turkey 🇹🇷</h3>
+<h3 align="center">Native Android Developer | Java & Kotlin</h3>
+
+<p align="center">
+  <i>Building scalable, clean and modern Android applications</i>
+</p>
 
 ---
 
-### 🚀 About Me
-- 💙 Currently working with **Dart & Flutter**
-- 📱 Interested in **Mobile App Development**
+### 👨‍💻 About Me
+- 📱 **Native Android Developer**
+- ☕ Strong background in **Java**
+- 🧠 Actively developing with **Kotlin**
+- 🏗 Focused on **Clean Architecture, MVVM**
+- 🔥 Passionate about performance & maintainable code
 - 📫 Reach me at: **yigit-karakoc@hotmail.com**
 
 ---
@@ -23,15 +30,26 @@
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tech Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
+
+---
+
+### 🧩 Android Concepts
+- MVVM Architecture
+- Clean Architecture
+- ViewModel & LiveData
+- Coroutines
+- Retrofit & REST APIs
+- Room Database
+- Firebase (Auth, Firestore)
+- Git & Version Control
 
 ---
 
