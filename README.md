@@ -55,11 +55,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yiits06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yiits06&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yiits06&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yiits06&layout=compact&theme=tokyonight&hide_border=true&v=1)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yiits06&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ![snake gif](https://github.com/yiits06/yiits06/blob/output/github-contribution-grid-snake-dark.svg)
