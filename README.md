@@ -1,8 +1,10 @@
-![MasterHead](https://www.shutterstock.com/image-vector/software-development-coding-process-concept-600nw-1396210841.jpg)  width="40" height="40" ] 
+<p align="center">
+  <img src="GÖRSEL_LİNKİ" width="800">
+</p>
 <h1 align="center">Hi 👋, I'm Yiğit</h1>
 <h3 align="center">A passionate Mobile developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Dart-Flutter**
+- 🔭 I’m currently working on **Android-Java&Kotlin**
 
 - 📫 How to reach me **yigit-karakoc@hotmail.com**
 
