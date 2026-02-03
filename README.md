@@ -55,11 +55,13 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yiits06&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=yiits06&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yiits06&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://img.shields.io/badge/Account-yiits06-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Native%20Android-3ddc84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Java%20%7C%20Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
 
 ![snake gif](https://github.com/yiits06/yiits06/blob/output/github-contribution-grid-snake-dark.svg)
